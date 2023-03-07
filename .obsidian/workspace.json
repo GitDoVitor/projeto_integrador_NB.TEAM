@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "76a8fd535a82e87d",
+    "type": "split",
+    "children": [
+      {
+        "id": "801b56692aeb1518",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c16c485a367b1acf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - zettels/faculdade/Proposta inicial de Projeto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32e56bfc880d15ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba69d6010b10edaf",
+        "type": "tabs",
+        "dimension": 65.69444444444444,
+        "children": [
+          {
+            "id": "dc208f3922afad1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1092a24fc82a139",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "3b5351bebfd4f018",
+        "type": "tabs",
+        "dimension": 34.30555555555556,
+        "children": [
+          {
+            "id": "adefa379517f4932",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#zettels",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5
+  },
+  "right": {
+    "id": "ac81c425e0b64d9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9db02fcbc0fe7cb2",
+        "type": "tabs",
+        "dimension": 63.888888888888886,
+        "children": [
+          {
+            "id": "7ea35fef33c9c084",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "127fb2561f0a9f82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9a6a7c1ef04096e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bcb9ace8ccfd2157",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1507e5a67b129a6",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "fbf683354fca6d37",
+        "type": "tabs",
+        "dimension": 36.11111111111111,
+        "children": [
+          {
+            "id": "5bb50ca8eb7d4ca4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Criar novo canvas": true,
+      "switcher:Abrir a troca rápida": true,
+      "graph:Abrir visualização em gráfico": false,
+      "daily-notes:Abrir a nota de hoje": true,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "gpt3-notes:GPT-3 Notes": true,
+      "obsidian-book-search-plugin:Create new book note": false
+    }
+  },
+  "active": "5bb50ca8eb7d4ca4",
+  "lastOpenFiles": [
+    "01 - zettels/faculdade/Proposta inicial de Projeto.md",
+    "01 - zettels/faculdade/rol de dados.md",
+    "02 - templates/Atividade {{date}}.md",
+    "02 - templates/book_metadata_template.md",
+    "02 - templates/{{coverUrl}}.md",
+    "02 - templates/zettel_template.md",
+    "02 - templates/class_template.md",
+    "01 - zettels/Rick Riordan - O Último Olimpiano.md",
+    "01 - zettels/faculdade/Projeto Integrador - 06-mar-2023.md",
+    "01 - zettels/faculdade/Esboço de questões-chave.md",
+    "01 - zettels/faculdade/Estatística.md",
+    "01 - zettels/faculdade/Medidas de posição - Média, Mediana e Moda.md",
+    "01 - zettels/faculdade/Distribuições de Probabilidade - Esperança Matemática, Variância, Desvio-padrão.md",
+    "01 - zettels/faculdade/Atividade 28-02 - Média, Moda, Mediana.md",
+    "01 - zettels/faculdade/Atividade 01-03 - Variância e Desvio Padrão.md",
+    "01 - zettels/carta ao demandante.md",
+    "01 - zettels/Eu sou a lenda.md",
+    "02 - templates/book_template.md",
+    "01 - zettels/().md",
+    "01 - zettels/Book Reviews.md",
+    "Sem título.canvas",
+    "03 - embedded/Moda_Media_Mediana.pdf",
+    "Sem título.md",
+    "03 - embedded",
+    "03 - embedded/Pasted image 20230301200938.png",
+    "03 - embedded/Variancia_e_Desvio-Padrao.pdf",
+    "01 - zettels/faculdade",
+    "01 - zettels",
+    "02 - templates"
+  ]
+}

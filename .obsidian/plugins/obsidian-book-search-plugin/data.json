@@ -1,0 +1,13 @@
+{
+  "folder": "01 - zettels",
+  "fileNameFormat": "{{author}} - {{title}}",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": true,
+  "defaultFrontmatterKeyType": "Snake Case",
+  "templateFile": "02 - templates/book_metadata_template.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default"
+}
