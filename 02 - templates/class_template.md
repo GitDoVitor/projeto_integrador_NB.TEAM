@@ -1,6 +1,6 @@
 data-de-criacao:: {{date}} - {{time}}
 materia::
-tags:: #zettels/aula
+tags:: #notas/aula
 backlinks::
 
 ---

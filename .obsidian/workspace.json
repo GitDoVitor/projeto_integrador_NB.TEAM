@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "801b56692aeb1518",
+        "id": "8221a98167da719a",
         "type": "tabs",
         "children": [
           {
-            "id": "c16c485a367b1acf",
+            "id": "61667167e8ca9261",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "01 - zettels/faculdade/Proposta inicial de Projeto.md",
-                "mode": "source",
-                "source": false
+                "file": "01 - minhas notas/1.3 - rhopen/Quadro de Cards.md"
               }
             }
           }
@@ -31,7 +29,6 @@
       {
         "id": "ba69d6010b10edaf",
         "type": "tabs",
-        "dimension": 65.69444444444444,
         "children": [
           {
             "id": "dc208f3922afad1f",
@@ -50,21 +47,14 @@
               "type": "starred",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "3b5351bebfd4f018",
-        "type": "tabs",
-        "dimension": 34.30555555555556,
-        "children": [
+          },
           {
             "id": "adefa379517f4932",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#zettels",
+                "query": "tag:#lendo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 235.5
   },
   "right": {
     "id": "ac81c425e0b64d9b",
@@ -86,7 +76,7 @@
       {
         "id": "9db02fcbc0fe7cb2",
         "type": "tabs",
-        "dimension": 63.888888888888886,
+        "dimension": 45.34883720930233,
         "children": [
           {
             "id": "7ea35fef33c9c084",
@@ -94,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 - minhas notas/1.3 - rhopen/Quadro de Cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 - minhas notas/1.3 - rhopen/Quadro de Cards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,11 +123,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "01 - minhas notas/1.3 - rhopen/Quadro de Cards.md"
+              }
+            }
+          },
+          {
+            "id": "aba63154c9cb9b09",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           },
           {
-            "id": "a1507e5a67b129a6",
+            "id": "ddff9a3dd3f22d5a",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "a225fb4509441624",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
@@ -143,12 +153,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "fbf683354fca6d37",
         "type": "tabs",
-        "dimension": 36.11111111111111,
+        "dimension": 54.65116279069767,
         "children": [
           {
             "id": "5bb50ca8eb7d4ca4",
@@ -162,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,42 +182,51 @@
       "daily-notes:Abrir a nota de hoje": true,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "gpt3-notes:GPT-3 Notes": true,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "5bb50ca8eb7d4ca4",
+  "active": "aba63154c9cb9b09",
   "lastOpenFiles": [
-    "01 - zettels/faculdade/Proposta inicial de Projeto.md",
-    "01 - zettels/faculdade/rol de dados.md",
-    "02 - templates/Atividade {{date}}.md",
+    "01 - minhas notas/1.3 - rhopen/Quadro de Cards.md",
+    "01 - minhas notas/1.3 - rhopen/Quadro de Front.canvas",
+    "01 - minhas notas/1.3 - rhopen/Cards no meu.md",
+    "01 - minhas notas/1.3 - rhopen",
+    "Sem título.md",
+    "01 - minhas notas/1.1 - faculdade/1.1.1 - projeto integrador/Calendário de Entregas.md",
+    "01 - minhas notas/1.2 - livros/Richard Matheson - Eu Sou A Lenda.md",
+    "01 - minhas notas/1.1 - faculdade/1.1.1 - projeto integrador/Esboço de questões-chave.md",
+    "01 - minhas notas/1.1 - faculdade/1.1.2 - bi e ciência de dados/Tipos de Gráficos.md",
+    "01 - minhas notas/Estatística.md",
+    "01 - minhas notas/1.1 - faculdade/1.1.2 - bi e ciência de dados/Distribuições de Probabilidade - Esperança Matemática, Variância, Desvio-padrão.md",
+    "01 - minhas notas/1.1 - faculdade/1.1.2 - bi e ciência de dados/Atividade 28-fev - Média, Moda, Mediana.md",
     "02 - templates/book_metadata_template.md",
     "02 - templates/{{coverUrl}}.md",
-    "02 - templates/zettel_template.md",
+    "02 - templates/book_template.md",
+    "01 - minhas notas/1.1 - faculdade/1.1.1 - projeto integrador/06-mar-2023.md",
+    "01 - minhas notas/1.1 - faculdade/1.1.1 - projeto integrador/Proposta inicial de Projeto.md",
+    "01 - minhas notas/1.1 - faculdade/1.1.2 - bi e ciência de dados/Atividade 01-mar - Variância e Desvio Padrão.md",
+    "02 - templates/activity_template.md",
+    "01 - minhas notas/1.1 - faculdade/1.1.2 - bi e ciência de dados/Medidas de posição - Média, Mediana e Moda.md",
     "02 - templates/class_template.md",
+    "02 - templates/rapid_note_template.md",
+    "01 - minhas notas/1.1 - faculdade/1.1.2 - bi e ciência de dados",
+    "01 - zettels/faculdade/rol de dados.md",
+    "01 - minhas notas/1.1 - faculdade/1.1.1 - projeto integrador",
+    "01 - minhas notas/1.2 - livros",
     "01 - zettels/Rick Riordan - O Último Olimpiano.md",
-    "01 - zettels/faculdade/Projeto Integrador - 06-mar-2023.md",
-    "01 - zettels/faculdade/Esboço de questões-chave.md",
-    "01 - zettels/faculdade/Estatística.md",
-    "01 - zettels/faculdade/Medidas de posição - Média, Mediana e Moda.md",
-    "01 - zettels/faculdade/Distribuições de Probabilidade - Esperança Matemática, Variância, Desvio-padrão.md",
-    "01 - zettels/faculdade/Atividade 28-02 - Média, Moda, Mediana.md",
-    "01 - zettels/faculdade/Atividade 01-03 - Variância e Desvio Padrão.md",
     "01 - zettels/carta ao demandante.md",
     "01 - zettels/Eu sou a lenda.md",
-    "02 - templates/book_template.md",
     "01 - zettels/().md",
-    "01 - zettels/Book Reviews.md",
     "Sem título.canvas",
     "03 - embedded/Moda_Media_Mediana.pdf",
-    "Sem título.md",
     "03 - embedded",
     "03 - embedded/Pasted image 20230301200938.png",
     "03 - embedded/Variancia_e_Desvio-Padrao.pdf",
-    "01 - zettels/faculdade",
-    "01 - zettels",
+    "01 - minhas notas/1.1 - faculdade",
+    "01 - minhas notas",
     "02 - templates"
   ]
 }

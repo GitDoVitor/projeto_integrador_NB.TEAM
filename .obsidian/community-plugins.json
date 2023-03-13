@@ -11,5 +11,9 @@
   "obsidian-pandoc",
   "obsidian-book-search-plugin",
   "multi-column-markdown",
-  "obsidian-columns"
+  "obsidian-columns",
+  "tag-wrangler",
+  "obsidian-linter",
+  "obsidian-tikzjax",
+  "obsidian-kanban"
 ]

@@ -1,1 +1,0 @@
-São um arranjo dos dados brutos em ordem crescente ou decrescente.
