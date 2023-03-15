@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8221a98167da719a",
+        "id": "32030a4f2ad05085",
         "type": "tabs",
         "children": [
           {
-            "id": "61667167e8ca9261",
+            "id": "22071f4ba2f96a97",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "01 - minhas notas/1.3 - rhopen/Quadro de Cards.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -54,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#lendo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +74,7 @@
       {
         "id": "9db02fcbc0fe7cb2",
         "type": "tabs",
-        "dimension": 45.34883720930233,
+        "dimension": 50,
         "children": [
           {
             "id": "7ea35fef33c9c084",
@@ -84,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - minhas notas/1.3 - rhopen/Quadro de Cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - minhas notas/1.3 - rhopen/Quadro de Cards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01 - minhas notas/1.3 - rhopen/Quadro de Cards.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,12 +150,12 @@
         "currentTab": 4
       },
       {
-        "id": "fbf683354fca6d37",
+        "id": "559b6ba6db65c71a",
         "type": "tabs",
-        "dimension": 54.65116279069767,
+        "dimension": 50,
         "children": [
           {
-            "id": "5bb50ca8eb7d4ca4",
+            "id": "61667167e8ca9261",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -188,45 +182,45 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "aba63154c9cb9b09",
+  "active": "dc208f3922afad1f",
   "lastOpenFiles": [
-    "01 - minhas notas/1.3 - rhopen/Quadro de Cards.md",
+    "01_minhas_notas/1.1_faculdade/1.1.3_embedded/Moda_Media_Mediana.pdf",
+    "01_minhas_notas/1.1_faculdade/1.1.3_embedded/Variancia_e_Desvio-Padrao.pdf",
+    "01_minhas_notas/1.1_faculdade/1.1.3_embedded/Pasted image 20230301200938.png",
+    "Sem título.md",
+    "01_minhas_notas/1.1_faculdade/1.1.3_embedded",
+    "01_minhas_notas/1.3_rhopen/Quadro de Cards.md",
+    "01_minhas_notas/1.3_rhopen",
+    "01_minhas_notas/1.2_livros/Richard Matheson - Eu Sou A Lenda.md",
+    "01_minhas_notas/1.2_livros",
+    "01_minhas_notas/1.1_faculdade/1.1.2 - bi e ciência de dados/Distribuições de Probabilidade - Esperança Matemática, Variância, Desvio-padrão.md",
+    "01_minhas_notas/1.3 - rhopen/Quadro de Cards.md",
+    "01_minhas_notas/1.1_faculdade/1.1.2 - bi e ciência de dados/Medidas de posição - Média, Mediana e Moda.md",
+    "01_minhas_notas/1.1_faculdade/1.1.2 - bi e ciência de dados/Atividade 28-fev - Média, Moda, Mediana.md",
+    "01_minhas_notas/1.1_faculdade/1.1.2 - bi e ciência de dados/Revisão - 14-mar.md",
+    "01_minhas_notas/1.1_faculdade/1.1.2 - bi e ciência de dados/Tipos de Gráficos.md",
+    "01_minhas_notas/1.1_faculdade/1.1.1 - projeto integrador/06-mar-2023.md",
+    "01_minhas_notas/1.1_faculdade/1.1.2 - bi e ciência de dados/Atividade 01-mar - Variância e Desvio Padrão.md",
+    "01_minhas_notas/1.1_faculdade/1.1.1 - projeto integrador/Esboço de questões-chave.md",
     "01 - minhas notas/1.3 - rhopen/Quadro de Front.canvas",
     "01 - minhas notas/1.3 - rhopen/Cards no meu.md",
-    "01 - minhas notas/1.3 - rhopen",
-    "Sem título.md",
+    "01_minhas_notas/1.3 - rhopen",
     "01 - minhas notas/1.1 - faculdade/1.1.1 - projeto integrador/Calendário de Entregas.md",
-    "01 - minhas notas/1.2 - livros/Richard Matheson - Eu Sou A Lenda.md",
-    "01 - minhas notas/1.1 - faculdade/1.1.1 - projeto integrador/Esboço de questões-chave.md",
-    "01 - minhas notas/1.1 - faculdade/1.1.2 - bi e ciência de dados/Tipos de Gráficos.md",
-    "01 - minhas notas/Estatística.md",
-    "01 - minhas notas/1.1 - faculdade/1.1.2 - bi e ciência de dados/Distribuições de Probabilidade - Esperança Matemática, Variância, Desvio-padrão.md",
-    "01 - minhas notas/1.1 - faculdade/1.1.2 - bi e ciência de dados/Atividade 28-fev - Média, Moda, Mediana.md",
-    "02 - templates/book_metadata_template.md",
+    "01_minhas_notas/1.2 - livros/Richard Matheson - Eu Sou A Lenda.md",
+    "01_minhas_notas/Estatística.md",
+    "02_templates/book_metadata_template.md",
     "02 - templates/{{coverUrl}}.md",
-    "02 - templates/book_template.md",
-    "01 - minhas notas/1.1 - faculdade/1.1.1 - projeto integrador/06-mar-2023.md",
-    "01 - minhas notas/1.1 - faculdade/1.1.1 - projeto integrador/Proposta inicial de Projeto.md",
-    "01 - minhas notas/1.1 - faculdade/1.1.2 - bi e ciência de dados/Atividade 01-mar - Variância e Desvio Padrão.md",
-    "02 - templates/activity_template.md",
-    "01 - minhas notas/1.1 - faculdade/1.1.2 - bi e ciência de dados/Medidas de posição - Média, Mediana e Moda.md",
-    "02 - templates/class_template.md",
-    "02 - templates/rapid_note_template.md",
-    "01 - minhas notas/1.1 - faculdade/1.1.2 - bi e ciência de dados",
+    "02_templates/book_template.md",
+    "01_minhas_notas/1.1_faculdade/1.1.1 - projeto integrador/Proposta inicial de Projeto.md",
+    "02_templates/activity_template.md",
+    "02_templates/class_template.md",
+    "02_templates/rapid_note_template.md",
+    "01_minhas_notas/1.1_faculdade/1.1.2 - bi e ciência de dados",
     "01 - zettels/faculdade/rol de dados.md",
-    "01 - minhas notas/1.1 - faculdade/1.1.1 - projeto integrador",
-    "01 - minhas notas/1.2 - livros",
+    "01_minhas_notas/1.1_faculdade/1.1.1 - projeto integrador",
+    "01_minhas_notas/1.2 - livros",
     "01 - zettels/Rick Riordan - O Último Olimpiano.md",
-    "01 - zettels/carta ao demandante.md",
-    "01 - zettels/Eu sou a lenda.md",
-    "01 - zettels/().md",
     "Sem título.canvas",
-    "03 - embedded/Moda_Media_Mediana.pdf",
-    "03 - embedded",
-    "03 - embedded/Pasted image 20230301200938.png",
-    "03 - embedded/Variancia_e_Desvio-Padrao.pdf",
-    "01 - minhas notas/1.1 - faculdade",
-    "01 - minhas notas",
-    "02 - templates"
+    "03_embedded"
   ]
 }

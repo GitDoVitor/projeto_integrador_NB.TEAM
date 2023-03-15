@@ -6,62 +6,62 @@
   "temperature": 5,
   "promptHistory": [
     {
-      "prompt": "o que é estatistica e quais seus usos em BI e analise de dados",
-      "processedPrompt": "o que é estatistica e quais seus usos em BI e analise de dados",
+      "prompt": "diferença entre data warehousing e data lake\n\n",
+      "processedPrompt": "diferença entre data warehousing e data lake\n\n",
       "temperature": 0.5,
       "tokens": 1000
     },
     {
-      "prompt": "O que é variancia na estatistica?",
-      "processedPrompt": "O que é variancia na estatistica?",
-      "temperature": 0.5,
-      "tokens": 100
-    },
-    {
-      "prompt": "O que é Variância na estatística?",
-      "processedPrompt": "O que é Variância na estatística?",
-      "temperature": 0.5,
-      "tokens": 500
-    },
-    {
-      "prompt": "O tema é estatística. Me mostre a fórmula para calcular a variância. Me dê o código da formula para usar em artigos Latex",
-      "processedPrompt": "O tema é estatística. Me mostre a fórmula para calcular a variância. Me dê o código da formula para usar em artigos Latex",
+      "prompt": "propriedades de um Data Warehousing (DW).",
+      "processedPrompt": "propriedades de um Data Warehousing (DW).",
       "temperature": 0.5,
       "tokens": 1000
     },
     {
-      "prompt": "Me diga o que é desvio-padrão na estatistica e me de o codigo para aplicar em arquivos LATEX.\n",
-      "processedPrompt": "Me diga o que é desvio-padrão na estatistica e me de o codigo para aplicar em arquivos LATEX.\n",
+      "prompt": "Para apoio à tomada de decisão, as empresas organizam muitos dos dados necessários em um DW (data warehouse), que é um conjunto de dados",
+      "processedPrompt": "Para apoio à tomada de decisão, as empresas organizam muitos dos dados necessários em um DW (data warehouse), que é um conjunto de dados",
       "temperature": 0.5,
       "tokens": 1000
     },
     {
-      "prompt": "me de o código da formula de desvio-padrao para artigos Latex\n",
-      "processedPrompt": "me de o código da formula de desvio-padrao para artigos Latex\n",
+      "prompt": "Qual a alternativa correta\n\nPara apoio à tomada de decisão, as empresas organizam muitos dos dados necessários em um DW (data warehouse), que é um conjunto de dados\n\n\na - orientado por assunto e variável com o tempo, mas não é integrado e não é volátil.\n\n\nb - integrado, volátil e variável com o tempo, mas não é orientado por assunto.\n\n\nc - orientado por assunto, integrado e variável com o tempo, mas não é volátil.\n\n\nd - integrado, mas não é orientado por assunto, não é volátil e não é variável com o tempo.\n\n\ne - orientado por assunto, integrado, volátil, mas não é variável com o tempo.",
+      "processedPrompt": "Qual a alternativa correta\n\nPara apoio à tomada de decisão, as empresas organizam muitos dos dados necessários em um DW (data warehouse), que é um conjunto de dados\n\n\na - orientado por assunto e variável com o tempo, mas não é integrado e não é volátil.\n\n\nb - integrado, volátil e variável com o tempo, mas não é orientado por assunto.\n\n\nc - orientado por assunto, integrado e variável com o tempo, mas não é volátil.\n\n\nd - integrado, mas não é orientado por assunto, não é volátil e não é variável com o tempo.\n\n\ne - orientado por assunto, integrado, volátil, mas não é variável com o tempo.",
       "temperature": 0.5,
       "tokens": 1000
     },
     {
-      "prompt": "Escreva um email de apresentação para um demandante de projeto integrador de faculdade. Deve ter a apresentação do projeto, e tambem marcando uma data para uma reuniao",
-      "processedPrompt": "Escreva um email de apresentação para um demandante de projeto integrador de faculdade. Deve ter a apresentação do projeto, e tambem marcando uma data para uma reuniao",
+      "prompt": "qual a altenativa correta\n\nNa modelagem multidimensional de um Data Warehouse, há dois modelos que são mais utilizados. O primeiro deles é um schema no qual somente a tabela fato e as tabelas de dimensões a ela relacionadas estão nele contidas e não é usada normalização; nesse schema, poucas junções com chave estrangeira são usadas e há menos redundância de dados. O segundo é um schema no qual a tabela fato, bem como as tabelas de dimensões e as tabelas de outras hierarquias (subdimensões) relacionadas estão nele contidas; nesse schema há mais junções com chaves estrangeiras e pode haver uma maior redundância de dados.\n\n\n\nO primeiro e o segundo schemas são, correta e respectivamente, denominados\n\n\na - non-hierarchical tree e hierarchical tree.\n\n\nb - top-down clustered e bottom-up clustered.\n\n\nc - star e snowflake.\n\n\nd - snowflake e star.\n\n\ne - bottom-up clustered e top-down clustered.",
+      "processedPrompt": "qual a altenativa correta\n\nNa modelagem multidimensional de um Data Warehouse, há dois modelos que são mais utilizados. O primeiro deles é um schema no qual somente a tabela fato e as tabelas de dimensões a ela relacionadas estão nele contidas e não é usada normalização; nesse schema, poucas junções com chave estrangeira são usadas e há menos redundância de dados. O segundo é um schema no qual a tabela fato, bem como as tabelas de dimensões e as tabelas de outras hierarquias (subdimensões) relacionadas estão nele contidas; nesse schema há mais junções com chaves estrangeiras e pode haver uma maior redundância de dados.\n\n\n\nO primeiro e o segundo schemas são, correta e respectivamente, denominados\n\n\na - non-hierarchical tree e hierarchical tree.\n\n\nb - top-down clustered e bottom-up clustered.\n\n\nc - star e snowflake.\n\n\nd - snowflake e star.\n\n\ne - bottom-up clustered e top-down clustered.",
       "temperature": 0.5,
       "tokens": 1000
     },
     {
-      "prompt": "Escreva um email de apresentação de projeto integrador semestral de faculdade. Deve conter uma apresentação do grupo e marcar uma reunião ",
-      "processedPrompt": "Escreva um email de apresentação de projeto integrador semestral de faculdade. Deve conter uma apresentação do grupo e marcar uma reunião ",
+      "prompt": "\"Um conjunto integrado de dados extraídos de bancos de dados operacionais, históricos, externos e selecionados, editados e padronizados para recuperação e análise, para fornecer inteligência empresarial na tomada de decisões gerenciais.\"\n\n\n\nA citação integra os conceitos do Business Intelligence, sendo conhecida por:",
+      "processedPrompt": "\"Um conjunto integrado de dados extraídos de bancos de dados operacionais, históricos, externos e selecionados, editados e padronizados para recuperação e análise, para fornecer inteligência empresarial na tomada de decisões gerenciais.\"\n\n\n\nA citação integra os conceitos do Business Intelligence, sendo conhecida por:",
       "temperature": 0.5,
       "tokens": 1000
     },
     {
-      "prompt": "Escreve um email de apresentação de projeto integrador semestral da faculdade. Deve a apresentação do grupo e um convite de reunião",
-      "processedPrompt": "Escreve um email de apresentação de projeto integrador semestral da faculdade. Deve a apresentação do grupo e um convite de reunião",
+      "prompt": "qual a lternativa correta\n\n\"Um conjunto integrado de dados extraídos de bancos de dados operacionais, históricos, externos e selecionados, editados e padronizados para recuperação e análise, para fornecer inteligência empresarial na tomada de decisões gerenciais.\"\n\n\n\nA citação integra os conceitos do Business Intelligence, sendo conhecida por:\n\n\nData Smart.\n\n\nData Enterprise.\n\n\nData Warehouse.\n\n\nData Mining.\n\n\nData Business.",
+      "processedPrompt": "qual a lternativa correta\n\n\"Um conjunto integrado de dados extraídos de bancos de dados operacionais, históricos, externos e selecionados, editados e padronizados para recuperação e análise, para fornecer inteligência empresarial na tomada de decisões gerenciais.\"\n\n\n\nA citação integra os conceitos do Business Intelligence, sendo conhecida por:\n\n\nData Smart.\n\n\nData Enterprise.\n\n\nData Warehouse.\n\n\nData Mining.\n\n\nData Business.",
       "temperature": 0.5,
       "tokens": 1000
     },
     {
-      "prompt": "Escreva um email de projeto integrador para um demandante.\ndeve conter um covite para uma reuniao ",
-      "processedPrompt": "Escreva um email de projeto integrador para um demandante.\ndeve conter um covite para uma reuniao ",
+      "prompt": "A soma dos valores da média e da variância de Y = 2X + 5 é igual a:\n\n\n52,4\n\n\n36,8\n\n\n32,0\n\n\n45,8\n\n\n40,2\n",
+      "processedPrompt": "A soma dos valores da média e da variância de Y = 2X + 5 é igual a:\n\n\n52,4\n\n\n36,8\n\n\n32,0\n\n\n45,8\n\n\n40,2\n",
+      "temperature": 0.5,
+      "tokens": 1000
+    },
+    {
+      "prompt": "A estrutura que consiste em uma tabela de fatos com uma única tabela para cada dimensão em Data Warehouse denomina-se:\n\n\nmodelo hierárquico de dados.\n\n\nesquema em estrela.\n\n\nconstelação de fatos.\n\n\ncubo de decisão. Parte inferior do formulário",
+      "processedPrompt": "A estrutura que consiste em uma tabela de fatos com uma única tabela para cada dimensão em Data Warehouse denomina-se:\n\n\nmodelo hierárquico de dados.\n\n\nesquema em estrela.\n\n\nconstelação de fatos.\n\n\ncubo de decisão. Parte inferior do formulário",
+      "temperature": 0.5,
+      "tokens": 1000
+    },
+    {
+      "prompt": "qual a alternativa correta\n\nA estrutura que consiste em uma tabela de fatos com uma única tabela para cada dimensão em Data Warehouse denomina-se:\n\n\nmodelo hierárquico de dados.\n\n\nesquema em estrela.\n\n\nconstelação de fatos.\n\n\ncubo de decisão. Parte inferior do formulário",
+      "processedPrompt": "qual a alternativa correta\n\nA estrutura que consiste em uma tabela de fatos com uma única tabela para cada dimensão em Data Warehouse denomina-se:\n\n\nmodelo hierárquico de dados.\n\n\nesquema em estrela.\n\n\nconstelação de fatos.\n\n\ncubo de decisão. Parte inferior do formulário",
       "temperature": 0.5,
       "tokens": 1000
     }

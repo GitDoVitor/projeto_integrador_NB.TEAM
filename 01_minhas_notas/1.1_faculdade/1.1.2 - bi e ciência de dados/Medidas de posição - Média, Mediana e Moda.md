@@ -35,7 +35,7 @@ A mediana é a medida de posição central de um conjunto de dados. Ela é calcu
 
 Para encontramos a mediana utilizasse de:
 
-$$x=\frac{n+1}{2}\ ou\ x=\frac{8}{2}=4$$
+$$x=\frac{n+1}{2}$$
 Onde: 
 n = número de elementos
 
